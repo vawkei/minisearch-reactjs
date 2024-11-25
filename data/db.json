@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Wolfenstein",
+      "text": "Wolfenstein is a groundbreaking video game series that pioneered the first-person shooter genre. Debuting in 1981, it gained fame with Wolfenstein 3D (1992), placing players in World War II as an Allied spy battling Nazis. Known for its intense gameplay, alternate history, and stealth-action elements, the series continues to evolve with modern reboots and thrilling narratives.",
+      "author": "voke",
+      "id": "1"
+    },
+    {
+      "title": "Bioshock",
+      "text": "BioShock is a critically acclaimed video game series blending first-person shooting with deep storytelling. Set in dystopian worlds like the underwater city of Rapture and floating Columbia, it explores themes of power, morality, and free will. Known for its immersive environments, philosophical depth, and plasmid abilities, BioShock redefined narrative-driven gaming since its debut in 2007.",
+      "author": "ese",
+      "id": "2"
+    },
+    {
+      "id": "3550",
+      "author": "jite",
+      "title": "Doom",
+      "text": "Doom is a legendary first-person shooter series that revolutionized gaming with its 1993 debut. Players battle demons from Hell across Mars and Earth, armed with iconic weapons like the shotgun and BFG. Known for its fast-paced action, heavy metal soundtrack, and gory visuals, Doom remains a cornerstone of the FPS genre and a cultural phenomenon."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+.main-container {
+  width: 100%;
+  padding: 2rem;
+  color: black;
+
+  .search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    // width: 100%;
+    input {
+      width: 100%;
+      padding: 0.5rem;
+      border-radius: 6px;
+    }
+  }
+
+  .blog {
+    padding: 1rem;
+    margin: 1rem;
+    .heading {
+      padding: 1rem 0rem;
+    }
+    span {
+      color: green;
+    }
+    .read {
+        padding: 1rem;
+      a {
+        background-color: green;
+        padding: 0.5rem;
+        border-radius: 6px;
+        width: 8rem;
+        min-width: 8rem;
+        text-decoration: none;
+        color: wheat;
+      }
+      a:hover{
+        background-color: transparent;
+        cursor: pointer;
+        color: black;
+      }
+    }
+  }
+}
